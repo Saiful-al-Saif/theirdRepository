@@ -1,0 +1,1 @@
+alert ("bangladesh capital dhaka");
